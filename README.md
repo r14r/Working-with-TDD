@@ -10,10 +10,11 @@ Read the corresponding Blog: http://blog.via-internet.de/blog/2019/05/17/tdd-wit
 
 ## Activate environment
 
-   . .env/python/bin/activate
+    . .env/python/bin/activate
 
 ## Install required packages
 
+    pip install --upgrade pip
     pip install pytest
 
 # Test-driven Design in Python - Samples and Resources
