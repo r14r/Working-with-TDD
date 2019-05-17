@@ -1,5 +1,8 @@
 # Working-with-TDD
-Test-driven Design in Python - Samples and Resources
+
+Read the corresponding Blog: http://blog.via-internet.de/blog/2019/05/17/tdd-with-python/
+
+# Test-driven Design in Python - Samples and Resources
 
 http://www.thedigitalcatonline.com/blog/2015/05/13/python-oop-tdd-example-part1/
 
