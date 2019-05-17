@@ -21,4 +21,5 @@ Read the corresponding Blog: http://blog.via-internet.de/blog/2019/05/17/tdd-wit
 
 http://www.thedigitalcatonline.com/blog/2015/05/13/python-oop-tdd-example-part1/
 
+
 http://www.thedigitalcatonline.com/blog/2017/05/09/a-game-of-tokens-write-an-interpreter-in-python-with-tdd-part-1/
