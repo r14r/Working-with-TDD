@@ -12,6 +12,10 @@ Activate environment
 
    . .env/python/bin/activate
 
+Install required packages
+
+    pip install pytest
+    
 # Test-driven Design in Python - Samples and Resources
 
 http://www.thedigitalcatonline.com/blog/2015/05/13/python-oop-tdd-example-part1/
